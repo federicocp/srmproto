@@ -1,0 +1,17 @@
+#m-f41b0706-9ba8-4991-89a2-c856f513cb15 #m-f41b0706-bg {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70) ;
+  filter: alpha(opacity=70) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#m-f41b0706-9ba8-4991-89a2-c856f513cb15 #m-f41b0706-imgSpinner {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#m-f41b0706-9ba8-4991-89a2-c856f513cb15.master > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

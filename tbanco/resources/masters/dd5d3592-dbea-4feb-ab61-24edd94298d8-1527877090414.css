@@ -1,0 +1,73 @@
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-P_ControllerTooltip {
+  position: absolute;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-PTooltip {
+  width: 240px;
+  height: 155px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-PTooltip > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-PTooltip td.layout {
+  padding: 0px 0px 0px 0px;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-PTooltip > .layoutWrapper {
+  left: 0px;
+  top: 0px;
+  width: 240px;
+  height: 155px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-PTooltip .verticalalign {
+  vertical-align: top;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-imgTooltipBox {
+  position: absolute;
+  width: 240px;
+  height: 155px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  display: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-imgTooltipBox > img, #m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-imgTooltipBox > svg {
+  height: 155px;
+  width: 240px;
+  box-shadow: none;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-imgQuestionButton {
+  position: absolute;
+  width: 21px;
+  height: 20px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  cursor: pointer;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-imgQuestionButton > img, #m-dd5d3592-dbea-4feb-ab61-24edd94298d8 #m-dd5d3592-imgQuestionButton > svg {
+  height: 20px;
+  width: 21px;
+  box-shadow: none;
+}
+#m-dd5d3592-dbea-4feb-ab61-24edd94298d8.master > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

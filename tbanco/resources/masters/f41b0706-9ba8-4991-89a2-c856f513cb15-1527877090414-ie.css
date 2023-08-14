@@ -1,0 +1,14 @@
+#m-f41b0706-9ba8-4991-89a2-c856f513cb15 #m-f41b0706-bg {
+  border-radius: 0px 0px 0px 0px;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: alpha(opacity=70);
+  -ms-transform: rotate(0.0deg);
+}
+#m-f41b0706-9ba8-4991-89a2-c856f513cb15 #m-f41b0706-imgSpinner {
+  -ms-transform: rotate(0.0deg);
+}
+#m-f41b0706-9ba8-4991-89a2-c856f513cb15.master > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

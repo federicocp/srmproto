@@ -1,0 +1,11 @@
+#m-2c4cca10-2d3c-42cc-a146-62a89a5ae706 #m-2c4cca10-imgOff {
+  -ms-transform: rotate(0.0deg);
+}
+#m-2c4cca10-2d3c-42cc-a146-62a89a5ae706 #m-2c4cca10-imgOn {
+  -ms-transform: rotate(0.0deg);
+}
+#m-2c4cca10-2d3c-42cc-a146-62a89a5ae706.master > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

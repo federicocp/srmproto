@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "OpenSans-Regular";
+  src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Regular.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Roboto-Regular.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "materialdesignjim-Regular";
+  src: url("../fonts/materialdesignjim-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/materialdesignjim-Regular.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Open_Sans-Light.ttf")  format("truetype"),
+       url("../fonts/Open_Sans-Light.otf") format("opentype");
+   font-weight : 300;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Open_Sans-Semibold.ttf")  format("truetype"),
+       url("../fonts/Open_Sans-Semibold.otf") format("opentype");
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Open_Sans-Bold.ttf")  format("truetype"),
+       url("../fonts/Open_Sans-Bold.otf") format("opentype");
+   font-weight : 700;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Lato-Bold.ttf")  format("truetype"),
+       url("../fonts/Lato-Bold.otf") format("opentype");
+   font-weight : 700;
+   font-style : normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("") format("embedded-opentype"),
+       url("../fonts/Lato-Regular.ttf")  format("truetype"),
+       url("../fonts/Lato-Regular.otf") format("opentype");
+   font-weight : 400;
+   font-style : normal;
+}

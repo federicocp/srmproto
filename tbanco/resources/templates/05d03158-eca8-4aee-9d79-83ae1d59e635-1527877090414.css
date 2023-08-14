@@ -1,0 +1,50 @@
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 > #backgroundBox {
+  background-color: #F1F1F1;
+  background-image: none;
+  position: absolute;
+}
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 > #alignmentBox {
+  position: relative;
+  max-width: 1280px;
+  max-height: 800px;
+  margin: 0 auto;
+}
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 #t-Image_1 {
+  position: absolute;
+  width: 1280px;
+  height: 379px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 #t-Image_1 > img, #t-05d03158-eca8-4aee-9d79-83ae1d59e635 #t-Image_1 > svg {
+  height: 379px;
+  width: 1280px;
+  box-shadow: none;
+}
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 #t-Image_2 {
+  position: absolute;
+  width: 1280px;
+  height: 72px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 #t-Image_2 > img, #t-05d03158-eca8-4aee-9d79-83ae1d59e635 #t-Image_2 > svg {
+  height: 72px;
+  width: 1280px;
+  box-shadow: none;
+}
+#t-05d03158-eca8-4aee-9d79-83ae1d59e635 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
